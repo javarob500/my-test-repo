@@ -1,0 +1,9 @@
+{
+	"name": "df-power-001",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c1be47c-26ce-4e34-83ed-28a2effae608",
+		"tenantId": "08cef59d-09f0-43fc-9133-6ae189995bab"
+	}
+}
